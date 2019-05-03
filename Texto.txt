@@ -1,3 +1,4 @@
 Git Course
 
-Este é um repositório teste para ensinar o GI:T
+Este é um repositório teste para ensinar o GIT..i
+Saiba mais no link: www...
